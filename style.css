@@ -1,0 +1,37 @@
+h1, h2 {
+    font-family: 'Rubik Glitch', cursive;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+p#headg {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+p, a, ul, li, ol {
+    font-family: 'Rubik', sans-serif;
+    text-align: justify;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+body {
+    background-image: url("hoppig.jpeg");
+}
+a#button {
+    padding: 10px;
+    color: white;
+    background: black;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background 250ms, padding 250ms;
+    text-decoration: none;
+}
+a#button:hover {
+    background: rgb(25, 25, 25);
+    padding: 12px;
+}
